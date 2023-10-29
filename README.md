@@ -30,7 +30,7 @@ This API Testing Framework is a robust, scalable, and easy-to-use solution desig
 ## Prerequisites
 
 - Python 3.x
-- Required Python packages: `pytest`, `requests`
+- Required Python packages: `pytest`, `requests`, `allure-pytest`
 
 ## Setup
 
@@ -46,6 +46,8 @@ This API Testing Framework is a robust, scalable, and easy-to-use solution desig
     ```bash
     pip install -r requirements.txt
     ```
+4. Optional: Install Allure command-line tools for generating allure reports. [Allure Installation Guide](https://docs.qameta.io/allure/#_installing_a_commandline)
+
 
 ## Running Tests
 

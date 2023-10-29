@@ -40,7 +40,7 @@ This API Testing Framework is a robust, scalable, and easy-to-use solution desig
     ```
 2. Navigate to the project directory.
     ```bash
-    cd api-testing-framework
+    cd apiProject
     ```
 3. Install the required Python packages.
     ```bash

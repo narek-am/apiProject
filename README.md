@@ -74,7 +74,7 @@ Feel free to fork the project, open a PR, or submit an issue.
 
 ## License
 
-This project is licensed under the MIT License - see the [README.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [README.md](README.md) file for details.
 
 ## Author
 

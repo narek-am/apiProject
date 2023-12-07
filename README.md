@@ -36,7 +36,7 @@ This API Testing Framework is a robust, scalable, and easy-to-use solution desig
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your_username/api-testing-framework.git
+    git clone https://github.com/your_username/apiProject.git
     ```
 2. Navigate to the project directory.
     ```bash
